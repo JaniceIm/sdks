@@ -426,7 +426,7 @@ Adjust.trackEvent(event);
 
 ### <a id="iap-verification">인앱 구매 검증
 
-Adjust의 서버 측 수신 확인 도구인 구매 검증(Purchase Verification)을 사용하여 앱에서 이루어지는 구매의 유효성을 확인하려면 안드로이드 구매 SDK를 확인하십시오. 자세한 내용은 [여기][android_purchase_sdk/tree/master/doc/korean]에서 확인할 수 있습니다.
+Adjust의 서버 측 수신 확인 도구인 구매 검증(Purchase Verification)을 사용하여 앱에서 이루어지는 구매의 유효성을 확인하려면 안드로이드 구매 SDK를 확인하십시오. 자세한 내용은 [여기][android-purchase-verification]에서 확인할 수 있습니다.
 
 ### <a id="callback-parameters">콜백 파라미터
 
